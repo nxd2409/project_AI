@@ -8,3 +8,6 @@
 - `graph/`: Lưu trữ đồ thị (confusion matrix, roc curve, training history).
 - `internet_collect_test_data/`: Chứa dữ liệu ảnh dùng để kiểm tra đơn lẻ.
 - `test_data/`: Chứa dữ liệu kiểm thử theo folder.
+
+## Cài đặt
+pip install -r requirements.txt
